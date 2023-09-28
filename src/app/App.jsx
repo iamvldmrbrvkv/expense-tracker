@@ -1,5 +1,6 @@
 import Transactions from '../features/transactions/Transactions';
 import Budgets from '../features/budgets/Budgets';
+import React from 'react';
 import '../App.css'
 
 function App() {
